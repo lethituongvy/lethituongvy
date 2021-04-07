@@ -8,5 +8,5 @@ About me:
 -  🤔 Open and friendly.
 -  Love to learn new things, especially things related to Frontend stacks.
 -  Enjoy working with ReactJS ❤
--  !.[a](https://st.quantrimang.com/photos/image/2018/04/20/cai-anh-gif-tren-man-hinh-cho-always-on-display-5.gif)
+- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
